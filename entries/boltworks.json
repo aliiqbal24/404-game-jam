@@ -12,5 +12,5 @@
   "own_art_list": ["Runtime-synthesized SFX and looping BGM via Web Audio API — no external audio files, no Atlas assets"],
   "what_i_found": "The tank is not a single mesh but a kit of verified 404 modules—hull, tracks, turret, barrel and armour—that automatically disassembles and physically rebuilds between waves. The silhouette visibly changes over a run as heavier hulls, longer barrels and bolted armour are swapped in. Because the tank is code, the rebuild is immediate and variation costs no additional meshes.",
   "wallet": "later",
-  "contact": "ngbedeworks@gmail.com"
+  "contact": "sydneybawa@gmail.com"
 }
