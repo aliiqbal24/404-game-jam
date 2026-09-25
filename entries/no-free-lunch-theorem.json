@@ -5,7 +5,7 @@
   "play_url": "https://no-lunch-left-behind.vercel.app/",
   "source_url": "https://github.com/aliiqbal24/no-lunch-left-behind",
   "commit": "20c6300c4159008614e15f3b67ddcc806c03ad5f",
-  "genre": "Action",
+  "genre": "other",
   "agent": "OpenAI Codex",
   "models": ["OpenAI GPT-5", "OpenAI GPT-6 Sol", "Google Gemini 3 Pro Image via Atlas"],
   "own_art": true,
